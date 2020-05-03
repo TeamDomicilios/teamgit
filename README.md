@@ -14,3 +14,8 @@ dicho repositorio los miembros y colaboradores podran hacer  un fork hacia sus c
 3. Click en organizaciones (Menu izquierdo)
 4. Click en nueva organizacion
 5. Elegir plan y llenar datos
+
+### Creacion del Fork
+
+Para crear el fork debes iniciar sesion en github y luego ingresar a la landing page al proyecto que quieras sacar tu fork.
+
