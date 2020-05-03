@@ -31,3 +31,11 @@ Agregar remotos
 Eliminar remotos
 
 `git remote remove TeamGit`
+
+### Creando etiquetas
+
+Es necesario crear las etiquetas a partir de la rama master, se considera coo una buena practica. (Incompleto)
+
+Para entender como llamar o categiruzar a tus versiones te recomendamos un articulo en nuestro blog
+https://ed.team/blog/como-se-deciden-las-versiones-del-software
+
