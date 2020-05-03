@@ -19,3 +19,15 @@ dicho repositorio los miembros y colaboradores podran hacer  un fork hacia sus c
 
 Para crear el fork debes iniciar sesion en github y luego ingresar a la landing page al proyecto que quieras sacar tu fork.
 
+## Como trabajar con 2 o mas remotos
+
+Listar remotos
+
+`git remote -v`
+
+Agregar remotos
+`git remote add TeamGit https://github.com/TeamDomicilios/teamgit.git`
+
+Eliminar remotos
+
+`git remote remove TeamGit`
